@@ -1,0 +1,10 @@
+{
+  "description": "really cool game website :D.",
+  "repo": "YOUR-GITHUB-USERNAME/registersupercoolgames",
+  "owner": {
+    "username": "trynafindgames"
+  },
+  "record": {
+    "CNAME": "supercoolgames.netlify.app"
+  }
+}
